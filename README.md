@@ -1,4 +1,5 @@
-# Machine Learning for Rare Disease Research — MVA Hackathon 2026
+# Machine Learning for Rare Disease Research — MVA Hackathon 2026  
+https://sagebio-rare-disease-real-kid-mva-hackathon-2026.hf.space/ 
 
 Analysis for **Rare Disease, Real Kid: The MVA Hackathon 2026**, organised by
 Sage Bionetworks with the MVA Society, Hugging Face and BEACON.
