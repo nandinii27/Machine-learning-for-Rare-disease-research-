@@ -1,0 +1,6 @@
+proband_id,chrom_1,pos_1,ref_1,alt_1,chrom_2,pos_2,ref_2,alt_2,epcr,finding_type,notes
+PROBAND01,chr15,40209701,T,G,chr15,40220612,T,G,0.95,primary,"BUB1B compound het: p.Leu737Ter (NMD-predicted null) + p.Asn1002Lys (kinase domain, SIFT deleterious, PolyPhen probably damaging, absent gnomAD)"
+PROBAND01,chr15,40209701,T,G,,,,,0.7,primary,Nonsense allele alone
+PROBAND01,chr15,40220612,T,G,,,,,0.6,primary,Missense allele alone
+PROBAND01,chr15,40209701,T,G,chr15,40216470,A,G,0.3,primary,"Alternative second allele: deep intronic c.2679-1026A>G, absent gnomAD, untested for pseudoexon activation"
+PROBAND01,chr15,40216470,A,G,,,,,0.15,secondary,"Deep intronic BUB1B variant, absent gnomAD, flagged for splicing follow-up"
